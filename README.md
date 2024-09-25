@@ -75,10 +75,11 @@ common-repo/
 
 ## 3. Code sample
 
-For code sample of each component prefer to the story book: npm run storybook
+For code sample of each component prefer to the story book:
 
 ```
----
+npm run storybook
+
 ```
 
 ## Installation

@@ -89,7 +89,7 @@ To get started with this repository, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/common-repo.git
+   git clone https://github.com/adityashukla0801/common-repo.git
 
    ```
 

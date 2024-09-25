@@ -71,10 +71,14 @@ common-repo/
 └── README.md               # Project documentation
 
 ---
+```
 
-## 3. Code Samples
+## 3. Code sample
 
 For code sample of each component prefer to the story book: npm run storybook
+
+```
+---
 ```
 
 ## Installation
